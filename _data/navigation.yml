@@ -1,0 +1,23 @@
+# Header navigation links for Bridge-AD Lab website
+
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "People"
+    url: /people/
+
+  - title: "News"
+    url: /year-archive/
+
+  - title: "Resources"
+    url: /resources/
+
+  - title: "Join Us"
+    url: /join/
+
+  - title: "Contact"
+    url: /contact/
