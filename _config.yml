@@ -22,7 +22,7 @@ repository               : "BrainImmune/BrainImmune.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lablogo.png"
   name             : "Bridge-AD Lab"
   pronouns         : # example: "she/her"  
   bio              : "Single-cell epigenomics on brain and immune cells to dissect the mechanisms of Alzheimer's Disease."
