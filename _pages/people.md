@@ -20,7 +20,7 @@ author_profile: true
     </p>
     <p>
       📧 <a href="mailto:wangwl.me@gmail.com">wangwl.me@gmail.com</a><br>
-      🔗 <a href="https://scholar.google.com/citations?user=1enzDrwAAAAJ&hl=en">Google Scholar</a> | <a href="https://github.com/BrainImmune">GitHub</a>
+      🔗 <a href="https://scholar.google.com/citations?user=1enzDrwAAAAJ&hl=en">Google Scholar</a> | <a href="https://github.com/BrainImmune" target="_blank">GitHub</a>
     </p>
   </div>
 </div>
