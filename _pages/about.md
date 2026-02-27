@@ -13,7 +13,7 @@ Our work sits at the intersection of **epigenomics**, **neuroimmunology**, and *
 
 ## Research Highlights
 
-- Single-cell chromatin accessibility profiling of human brain tissue across AD progression
+- Single-cell epigenomics of human brain and immune cells across AD progression
 - Characterizing the epigenetic landscape of microglia and peripheral immune cells in AD
 - Integrative multi-omic analysis to link regulatory elements to gene expression in disease
 - Development of computational tools for single-cell epigenomic data analysis

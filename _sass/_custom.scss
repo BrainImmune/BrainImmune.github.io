@@ -2,6 +2,17 @@
    Bridge-AD Lab — Custom Visual Overrides
    ========================================================================== */
 
+/* Text selection: visible highlight in both light and dark mode */
+::selection {
+  background: #38bdf8;
+  color: #0f172a;
+}
+
+::-moz-selection {
+  background: #38bdf8;
+  color: #0f172a;
+}
+
 /* Masthead: subtle bottom border accent in dark mode */
 html[data-theme="dark"] {
   .masthead {
