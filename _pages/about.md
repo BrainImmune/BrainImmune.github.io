@@ -15,10 +15,10 @@ Our work sits at the intersection of **epigenomics**, **neuroimmunology**, and *
 
 ## Research Highlights
 
-- Single-cell epigenomics of human brain and immune cells across AD progression
-- Characterizing the epigenetic landscape of microglia and peripheral immune cells in AD
-- Integrative multi-omic analysis to link regulatory elements to gene expression in disease
-- Development of computational tools for single-cell epigenomic data analysis
+- **Single-cell epigenomics of human and mouse brain and immune cells** to map cell-type-specific regulatory changes across AD progression
+- **Mechanisms of AD progression and prevention** using mouse models and human induced neurons to dissect causal epigenomic and gene regulatory events
+- **Genetics × Environment AI model for precision prevention** — integrating multi-omic data with environmental exposures to predict and prevent AD at the individual level
+- **Novel diagnostic and therapeutic strategies for AD** — translating epigenomic discoveries into clinically actionable biomarkers and intervention targets
 
 ## We Are Recruiting!
 
