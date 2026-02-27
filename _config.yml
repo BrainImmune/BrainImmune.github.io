@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Bridge-AD Lab"
+title                    : "Wenliang Wang Lab - Bridge-AD Lab"
 title_separator          : "-"
-name                     : &name "Bridge-AD Lab"
-description              : &description "Single-cell epigenomics on brain and immune cells to dissect the mechanisms of Alzheimer's Disease"
+name                     : &name "Wenliang Wang"
+description              : &description "Wenliang Wang Lab (Bridge-AD Lab) at ShanghaiTech University. Single-cell epigenomics of brain and immune cells to dissect the mechanisms of Alzheimer's Disease."
 url                      : https://brainimmune.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BrainImmune/BrainImmune.github.io"
@@ -141,14 +141,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/lablogo.png"
+og_description           : "Wenliang Wang Lab (Bridge-AD Lab) at ShanghaiTech University — single-cell epigenomics of brain and immune cells to study Alzheimer's Disease."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Wenliang Wang"
+  links:
+    - "https://scholar.google.com/citations?user=1enzDrwAAAAJ&hl=en"
+    - "https://github.com/BrainImmune"
 
 
 # Analytics

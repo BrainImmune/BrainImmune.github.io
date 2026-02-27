@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bridge-AD Lab"
+title: "Wenliang Wang Lab — Bridge-AD Lab"
 author_profile: true
 redirect_from: 
   - /about/
