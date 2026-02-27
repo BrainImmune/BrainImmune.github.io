@@ -1,0 +1,68 @@
+/* ==========================================================================
+   Bridge-AD Lab — Custom Visual Overrides
+   ========================================================================== */
+
+/* Masthead: subtle bottom border accent in dark mode */
+html[data-theme="dark"] {
+  .masthead {
+    background: #0f172a;
+    border-bottom: 2px solid #1e3a5f;
+
+    &::after {
+      background: linear-gradient(90deg, #38bdf8 0%, #0ea5e9 50%, transparent 100%);
+      height: 2px;
+    }
+  }
+
+  /* Sidebar: slightly lighter card-like background */
+  .sidebar {
+    background: #1e293b;
+    border-right: 1px solid #1e3a5f;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+  }
+
+  /* Author profile avatar: add a glowing ring */
+  .author__avatar img {
+    border: 3px solid #38bdf8;
+    box-shadow: 0 0 16px rgba(56, 189, 248, 0.35);
+    border-radius: 50%;
+  }
+
+  /* Page content area: subtle card lift */
+  .page__content {
+    background: transparent;
+  }
+
+  /* Section headings: accent underline */
+  .page__content h2 {
+    border-bottom: 2px solid #1e3a5f;
+    padding-bottom: 0.3em;
+  }
+
+  /* Footer: clean dark strip */
+  .page__footer {
+    background: #0a1120;
+    border-top: 1px solid #1e3a5f;
+  }
+
+  /* Inline code: subtle teal background */
+  code.highlighter-rouge {
+    background: #1e293b;
+    color: #7dd3fc;
+    border: 1px solid #334155;
+    border-radius: 3px;
+    padding: 0.1em 0.4em;
+  }
+
+  /* Table header row */
+  thead {
+    background: #1e293b;
+  }
+
+  /* Active nav item underline */
+  .masthead__menu-item.selected a {
+    border-bottom: 2px solid #38bdf8;
+    color: #38bdf8;
+  }
+}
