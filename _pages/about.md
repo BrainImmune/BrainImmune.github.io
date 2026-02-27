@@ -9,7 +9,7 @@ redirect_from:
 
 We are a research group focused on understanding the cellular and molecular mechanisms of **Alzheimer's Disease (AD)** through the lens of single-cell epigenomics. By profiling both **brain cells** and **immune cells** at single-cell resolution, we aim to decode how gene regulation goes awry in AD and identify new therapeutic targets.
 
-Our work sits at the intersection of **epigenomics**, **neuroimmunology**, and **computational biology**, leveraging cutting-edge single-cell technologies including scATAC-seq, scRNA-seq, and spatial transcriptomics.
+Our work sits at the intersection of **epigenomics**, **neuroimmunology**, **computational biology**, and **AI**, leveraging cutting-edge single-cell technologies including 10x Genomics, snm3C (joint single-nucleus DNA methylation + Hi-C), and spatial transcriptomics.
 
 ## Research Highlights
 
