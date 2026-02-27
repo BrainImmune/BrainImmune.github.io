@@ -16,7 +16,7 @@ author_profile: true
     School of Life Science and Technology<br>
     ShanghaiTech University</p>
     <p>
-    Dr. Wang is a computational and experimental epigenomicist whose research focuses on understanding gene regulation in brain and immune cells at single-cell resolution. His lab applies cutting-edge single-cell technologies — including scATAC-seq, single-nucleus methylation sequencing, and 3D genomics — to dissect the epigenomic mechanisms of Alzheimer's Disease and neuroimmune interactions. Prior to starting the Bridge-AD Lab, he trained in epigenomics of immune cells and brain cells as a postdoctoral researcher at the University of Pennsylvania (Vahedi Lab) and the Salk Institute for Biological Studies (Ecker Lab).
+    Dr. Wang is a computational and experimental epigenomicist whose research focuses on understanding gene regulation in brain and immune cells at single-cell resolution. His lab applies cutting-edge single-cell technologies — including scATAC-seq, single-nucleus methylation sequencing, and 3D genomics — to dissect the epigenomic mechanisms of Alzheimer's Disease and neuroimmune interactions. Prior to starting the Bridge-AD Lab, he was trained in epigenomics of immune cells and brain cells as a postdoctoral researcher at the University of Pennsylvania (Vahedi Lab) and the Salk Institute for Biological Studies (Ecker Lab). Besides science, he is a marathon and triathlon enthusiast.
     </p>
     <p>
       📧 <a href="mailto:wangwl.me@gmail.com">wangwl.me@gmail.com</a><br>
