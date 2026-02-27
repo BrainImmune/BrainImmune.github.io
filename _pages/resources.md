@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-We are committed to open science. Here you will find data, code, and computational tools produced by the Bridge-AD Lab.
+We are committed to open science. Here you will find data, AI agents, and analysis code produced by the Bridge-AD Lab.
 
 ---
 
@@ -21,44 +21,19 @@ Processed datasets from our published studies are deposited in public repositori
 
 ---
 
-## Code & Software
+## AI Agents
 
-All analysis code associated with our publications is available on [GitHub](https://github.com/BrainImmune).
-
-| Repository | Description | Language |
-|------------|-------------|----------|
-| [repo-name](https://github.com/BrainImmune/repo-name) | [Brief description] | Python / R |
+*Coming soon — we are developing AI agents for epigenomic data analysis and interpretation.*
 
 ---
 
-## Computational Pipelines
+## Analysis Notebooks
 
-We use and have adapted the following pipelines in our work:
+Analysis notebooks for published papers are available on [GitHub](https://github.com/BrainImmune).
 
-- **[Pipeline name]** — [Brief description and link]
-- **ArchR** — [Scalable single-cell ATAC-seq analysis](https://www.archrproject.com/)
-- **Signac** — [Single-cell chromatin data analysis in R](https://stuartlab.org/signac/)
-- **Seurat** — [Single-cell RNA-seq analysis](https://satijalab.org/seurat/)
-- **SnapATAC2** — [Python-based scATAC-seq toolkit](https://kzhang.org/SnapATAC2/)
+| Paper | Notebook | Description |
+|-------|----------|-------------|
+| [Wang et al., 2026 — *Nature Genetics*](https://www.nature.com/articles/s41588-025-02479-6) | [GitHub](https://github.com/BrainImmune) | Immune cell epigenome analysis |
+| [Wang et al., 2025 — *bioRxiv*](https://pmc.ncbi.nlm.nih.gov/articles/PMC12621709/) | [GitHub](https://github.com/BrainImmune) | Brain region AD epigenomics |
 
----
-
-## Tutorials & Protocols
-
-*Coming soon — we plan to share protocols and tutorials for key methods used in the lab.*
-
----
-
-## Useful Links
-
-**Databases & Resources**
-- [Allen Brain Atlas](https://portal.brain-map.org/) — Brain gene expression and cell type resources
-- [ENCODE Portal](https://www.encodeproject.org/) — Functional genomics data
-- [UCSC Genome Browser](https://genome.ucsc.edu/) — Genome visualization
-- [AD Knowledge Portal (Synapse)](https://adknowledgeportal.synapse.org/) — AD omics datasets
-- [CellxGene Census](https://cellxgene.cziscience.com/census) — Single-cell datasets
-
-**AD-Specific Resources**
-- [Alzheimer's Association](https://www.alz.org/)
-- [ADSP (Alzheimer's Disease Sequencing Project)](https://adsp.niagads.org/)
-- [ROSMAP / ROS / MAP Cohorts](https://www.radc.rush.edu/)
+*Notebooks for additional papers will be added upon publication.*
