@@ -9,16 +9,18 @@ author_profile: true
 ## Principal Investigator
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 40px;">
-  <img src="/images/profile.png" alt="PI Photo" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
+  <img src="/images/profile.jpg" alt="Wenliang Wang" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;">Your Name</h3>
-    <p><em>Assistant/Associate/Full Professor</em><br>
-    Department of [Department Name]<br>
-    [University / Institution]</p>
-    <p>[Short bio — describe your background, research interests, and what drives your work. 2–3 sentences is ideal.]</p>
+    <h3 style="margin-top: 0;">Wenliang Wang, PhD</h3>
+    <p><em>[Assistant/Associate Professor — please update title]</em><br>
+    [Department — please update]<br>
+    ShanghaiTech University</p>
     <p>
-      📧 <a href="mailto:your.email@institution.edu">your.email@institution.edu</a><br>
-      🔗 <a href="#">Google Scholar</a> | <a href="#">Twitter/X</a> | <a href="#">GitHub</a>
+    Dr. Wang is a computational and experimental epigenomicist whose research focuses on understanding gene regulation in brain and immune cells at single-cell resolution. His lab applies cutting-edge single-cell technologies — including scATAC-seq, single-nucleus methylation sequencing, and 3D genomics — to dissect the epigenomic mechanisms of Alzheimer's Disease and neuroimmune interactions. Prior to starting the Bridge-AD Lab, he was a postdoctoral researcher at the Salk Institute for Biological Studies in the Ecker Lab.
+    </p>
+    <p>
+      📧 <a href="mailto:wangwl.me@gmail.com">wangwl.me@gmail.com</a><br>
+      🔗 <a href="https://scholar.google.com/citations?user=1enzDrwAAAAJ&hl=en">Google Scholar</a> | <a href="https://github.com/BrainImmune">GitHub</a>
     </p>
   </div>
 </div>
@@ -28,47 +30,21 @@ author_profile: true
 <!-- ===================== POSTDOCTORAL RESEARCHERS ===================== -->
 ## Postdoctoral Researchers
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <img src="/images/profile.png" alt="Photo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
-  <div>
-    <h3 style="margin-top: 0;">Postdoc Name</h3>
-    <p><em>Postdoctoral Fellow</em></p>
-    <p>Research focus: [brief description of project]</p>
-    <p>📧 <a href="mailto:email@institution.edu">email@institution.edu</a></p>
-  </div>
-</div>
+*We are actively recruiting postdoctoral researchers. See our [Join Us](/join/) page for details.*
 
 ---
 
 <!-- ===================== GRADUATE STUDENTS ===================== -->
 ## Graduate Students
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <img src="/images/profile.png" alt="Photo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
-  <div>
-    <h3 style="margin-top: 0;">Student Name</h3>
-    <p><em>PhD Student, [Program], [Year joined]</em></p>
-    <p>Research focus: [brief description of project]</p>
-    <p>📧 <a href="mailto:email@institution.edu">email@institution.edu</a></p>
-  </div>
-</div>
+*We are actively recruiting PhD students. See our [Join Us](/join/) page for details.*
 
 ---
 
 <!-- ===================== UNDERGRADUATE RESEARCHERS ===================== -->
 ## Undergraduate Researchers
 
-- **Student Name** — [Institution], [Year], Project: [brief description]
-
----
-
-<!-- ===================== ALUMNI ===================== -->
-## Alumni
-
-| Name | Role | Years | Current Position |
-|------|------|-------|-----------------|
-| Name | Postdoc | 20XX–20XX | [Current position] |
-| Name | PhD Student | 20XX–20XX | [Current position] |
+*Interested in joining? See our [Join Us](/join/) page.*
 
 ---
 
