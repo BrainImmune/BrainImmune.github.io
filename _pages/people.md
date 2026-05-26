@@ -42,7 +42,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 40px;">
   <img src="/images/zhangyi.jpg" alt="Yi Zhang" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
   <div>
-    <h3 style="margin-top: 0;">Wenliang Wang, PhD</h3>
+    <h3 style="margin-top: 0;">Yi Zhang</h3>
     <p><em>Master Student</em><br>
     School of Life Science and Technology<br>
     ShanghaiTech University</p>
