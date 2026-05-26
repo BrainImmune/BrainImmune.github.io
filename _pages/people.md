@@ -39,6 +39,25 @@ author_profile: true
 
 *We are actively recruiting PhD students. See our [Join Us](/join/) page for details.*
 
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 40px;">
+  <img src="/images/zhangyi.jpg" alt="Yi Zhang" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
+  <div>
+    <h3 style="margin-top: 0;">Wenliang Wang, PhD</h3>
+    <p><em>Master Student</em><br>
+    School of Life Science and Technology<br>
+    ShanghaiTech University</p>
+    <p>
+    Zhang Yi Graduated from Huazhong Agricultural University. Interested in bioinformatics and genomics research. Enjoys Taylor Swift's music, as well as movies and stand-up comedy.
+
+    张艺本科毕业于华中农业大学，主要对生物信息学与基因组学相关研究感兴趣。喜欢Taylor Swift的音乐，也爱好电影和脱口秀。
+
+    </p>
+    <p>
+      📧 <a href="mailto:zhangyi12025@shanghaitech.edu.cn">zhangyi12025@shanghaitech.edu.cn</a><br>
+    </p>
+  </div>
+</div>
+
 ---
 
 <!-- ===================== UNDERGRADUATE RESEARCHERS ===================== -->
