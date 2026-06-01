@@ -78,7 +78,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 40px;">
-  <img src="/images/favicon-512x512.png" alt="Puxi Wang" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
+  <img src="/images/Puxi.jpg" alt="Puxi Wang" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;">Puxi Wang</h3>
     <p><em>Master Student</em><br>
