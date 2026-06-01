@@ -76,6 +76,25 @@ author_profile: true
   </div>
 </div>
 
+
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 40px;">
+  <img src="" alt="Puxi Wang" style="width: 160px; height: 160px; object-fit: cover; border-radius: 50%; flex-shrink: 0;">
+  <div>
+    <h3 style="margin-top: 0;">Puxi Wang</h3>
+    <p><em>Master Student</em><br>
+    School of Life Science and Technology<br>
+    ShanghaiTech University</p>
+    <p>
+    I am Wang Puxi, a graduate student in Biology at ShanghaiTech University. My research uses computational methods to analyze multi-omics data. I build bioinformatic pipelines to process large-scale, high-dimensional datasets. I am motivated by solving technical challenges and using these tools to find unexpected biological patterns. My primary interest is identifying anomalies and outliers in data that contradict established assumptions or uncover novel biological insights, allowing me to extract hidden mechanisms from biological noise.
+
+    </p>
+    <p>
+      📧 <a href="mailto:wangpx2025@shanghaitech.edu.cn">wangpx2025@shanghaitech.edu.cn</a><br>
+    </p>
+  </div>
+</div>
+
+
 ---
 
 <!-- ===================== UNDERGRADUATE RESEARCHERS ===================== -->
